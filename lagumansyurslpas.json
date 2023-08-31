@@ -60,14 +60,7 @@
     }
   ],
   "Data": [
-    {
-      "id": 1,
-      "name_category": "Mansyur S",
-      "title": "Air Dan Minyak",
-      "image": "file:///android_asset/image/panada3.png",
-      "link_mp3": "mp3/airdanminyak.mansyurskaraoke.mp3",
-      "lyrics": "<div class=\"xaAUmb\">\n<div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Ha-ah-ah, ah-ah-ah</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Kau umpama air<br aria-hidden=\"true\" />Aku bagai minyaknya<br aria-hidden=\"true\" />Engkau orang kaya<br aria-hidden=\"true\" />Aku orang tak punya</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Bagaikan Qais dan Laila<br aria-hidden=\"true\" />Yang dimabuk cinta<br aria-hidden=\"true\" />Berkorban apa saja<br aria-hidden=\"true\" />Demi kita berdua</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Mungkinkah ini terjadi<br aria-hidden=\"true\" />Cinta terpadu?<br aria-hidden=\"true\" />Kau umpama air<br aria-hidden=\"true\" />Aku bagai minyaknya</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Berdosakah bila kita bercinta?<br aria-hidden=\"true\" />Bukankah kita lahir dari cinta?<br aria-hidden=\"true\" />Hanya kita saling berbeda saja<br aria-hidden=\"true\" />Itu yang memisahkan cinta kita</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Bukankah sesama manusia<br aria-hidden=\"true\" />Saling menyinta?<br aria-hidden=\"true\" />Kau umpama air<br aria-hidden=\"true\" />Aku bagai minyaknya</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Bagaikan Qais dan Laila<br aria-hidden=\"true\" />Yang dimabuk cinta<br aria-hidden=\"true\" />Engkau orang kaya<br aria-hidden=\"true\" />Aku orang tak punya</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Berdosakah bila kita bercinta?<br aria-hidden=\"true\" />Bukankah kita lahir dari cinta?<br aria-hidden=\"true\" />Hanya kita saling berbeda saja<br aria-hidden=\"true\" />Itu yang memisahkan cinta kita</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">Bukankah sesama manusia<br aria-hidden=\"true\" />Saling menyinta?<br aria-hidden=\"true\" />Kau umpama air<br aria-hidden=\"true\" />Aku bagai minyaknya</div>\n<div class=\"ujudUb\" style=\"text-align: center;\">&nbsp;</div>\n<div class=\"ujudUb WRZytc\" style=\"text-align: center;\">Bagaikan Qais dan Laila<br aria-hidden=\"true\" />Yang dimabuk cinta<br aria-hidden=\"true\" />Engkau orang kaya<br aria-hidden=\"true\" />Aku orang tak punya</div>\n</div>\n</div>\n<p style=\"text-align: center;\">&nbsp;</p>\n" },
-    {
+   {
       "id": 2,
       "name_category": "Mansyur S",
       "title": "Air Mata Perkawinan",
